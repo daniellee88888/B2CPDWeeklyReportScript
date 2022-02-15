@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.2.0",
+    "googleapis": "^92.0.0",
+    "pg": "^8.7.1",
+    "pg-native": "^3.0.0"
+  }
+}
